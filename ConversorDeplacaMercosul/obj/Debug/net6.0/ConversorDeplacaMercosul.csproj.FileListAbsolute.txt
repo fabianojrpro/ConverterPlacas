@@ -1,0 +1,15 @@
+D:\WorkC#\Projetos\ConversorDeplacaMercosul\ConversorDeplacaMercosul\bin\Debug\net6.0\ConversorDeplacaMercosul.exe
+D:\WorkC#\Projetos\ConversorDeplacaMercosul\ConversorDeplacaMercosul\bin\Debug\net6.0\ConversorDeplacaMercosul.deps.json
+D:\WorkC#\Projetos\ConversorDeplacaMercosul\ConversorDeplacaMercosul\bin\Debug\net6.0\ConversorDeplacaMercosul.runtimeconfig.json
+D:\WorkC#\Projetos\ConversorDeplacaMercosul\ConversorDeplacaMercosul\bin\Debug\net6.0\ConversorDeplacaMercosul.dll
+D:\WorkC#\Projetos\ConversorDeplacaMercosul\ConversorDeplacaMercosul\bin\Debug\net6.0\ConversorDeplacaMercosul.pdb
+D:\WorkC#\Projetos\ConversorDeplacaMercosul\ConversorDeplacaMercosul\obj\Debug\net6.0\ConversorDeplacaMercosul.csproj.AssemblyReference.cache
+D:\WorkC#\Projetos\ConversorDeplacaMercosul\ConversorDeplacaMercosul\obj\Debug\net6.0\ConversorDeplacaMercosul.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkC#\Projetos\ConversorDeplacaMercosul\ConversorDeplacaMercosul\obj\Debug\net6.0\ConversorDeplacaMercosul.AssemblyInfoInputs.cache
+D:\WorkC#\Projetos\ConversorDeplacaMercosul\ConversorDeplacaMercosul\obj\Debug\net6.0\ConversorDeplacaMercosul.AssemblyInfo.cs
+D:\WorkC#\Projetos\ConversorDeplacaMercosul\ConversorDeplacaMercosul\obj\Debug\net6.0\ConversorDeplacaMercosul.csproj.CoreCompileInputs.cache
+D:\WorkC#\Projetos\ConversorDeplacaMercosul\ConversorDeplacaMercosul\obj\Debug\net6.0\ConversorDeplacaMercosul.dll
+D:\WorkC#\Projetos\ConversorDeplacaMercosul\ConversorDeplacaMercosul\obj\Debug\net6.0\refint\ConversorDeplacaMercosul.dll
+D:\WorkC#\Projetos\ConversorDeplacaMercosul\ConversorDeplacaMercosul\obj\Debug\net6.0\ConversorDeplacaMercosul.pdb
+D:\WorkC#\Projetos\ConversorDeplacaMercosul\ConversorDeplacaMercosul\obj\Debug\net6.0\ConversorDeplacaMercosul.genruntimeconfig.cache
+D:\WorkC#\Projetos\ConversorDeplacaMercosul\ConversorDeplacaMercosul\obj\Debug\net6.0\ref\ConversorDeplacaMercosul.dll
